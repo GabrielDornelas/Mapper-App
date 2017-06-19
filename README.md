@@ -1,6 +1,6 @@
 # Mapper App (Entrega do Projeto)
 
-**Integrantes: Gabriel Dornelas**<br>
+**Integrantes: Gabriel Dornelas e Breno Baiardi**<br>
 **Orientador: Giuliano Bertoti**
 
 Diagrama de Classe:
